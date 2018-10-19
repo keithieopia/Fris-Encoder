@@ -1,4 +1,4 @@
-# fris-dncoder
+# fris-decoder
 Decodes files created by [Fris-Encoder](https://github.com/OGFris/Fris-Encoder) 
 without actually running them (using `eval()`). 
 
